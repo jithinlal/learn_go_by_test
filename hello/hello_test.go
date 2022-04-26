@@ -1,6 +1,8 @@
-package main
+package hello
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestHello(t *testing.T) {
 	assertCorrectMessage := func(t testing.TB, got, want string) {
