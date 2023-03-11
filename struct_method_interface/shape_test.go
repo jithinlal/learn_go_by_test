@@ -1,4 +1,4 @@
-package struct_method_interface
+package structmethodinterface
 
 import "testing"
 
